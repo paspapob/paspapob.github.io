@@ -9,12 +9,16 @@ layout: default
 {% else %}
   <header class="site-masthead">
     {% include menu.html %}
+    {% if site.title %}
       <h1>
         Benjamin Paspaporn
       </h1>
+    {% endif %}
+    {% if site.title %}
       <h2>
-        Designer. Developer. Thinker.
+        {{ site.description }}
       </h2>
+    {% endif %}
   </header>
 {% endif %}
 
