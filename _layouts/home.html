@@ -9,16 +9,12 @@ layout: default
 {% else %}
   <header class="site-masthead">
     {% include menu.html %}
-    {% if site.title %}
       <h1>
-        {{ site.title }}
+        Benjamin Paspaporn
       </h1>
-    {% endif %}
-    {% if site.title %}
       <h2>
-        {{ site.description }}
+        Designer. Developer. Thinker.
       </h2>
-    {% endif %}
   </header>
 {% endif %}
 
@@ -33,7 +29,7 @@ layout: default
   </h1>
 
   {% if site.paginate and site.paginate_path %}
-    
+
     <ul class="post-list">
       {% for post in paginator.posts %}
         {% include post-list-item.html %}
@@ -65,8 +61,8 @@ layout: default
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
-  
+
   {% endif %}
-    
+
 
 </main>
