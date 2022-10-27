@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
-    
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <title>{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
 
-    {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
+    <title>Benjamin Paspaporn</title>
 
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
+    <meta name="description" content="Benjamin Paspaporn">
+
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' }}?{{ site.time | date: '%s%N' }}">
 
     <link rel="apple-touch-icon" href="{{ site.icon }}">
 
@@ -21,21 +21,11 @@
   </head>
   <body>
 
-    {% if page.layout == 'home' %}
-      <a href="#main" class="skip-navigation">
-        Skip to list of posts
-      </a>
-    {% else %}
-      <a href="#main" class="skip-navigation">
-        Skip to content
-      </a>
-    {% endif %}
+
 
     {{ content }}
 
-    {% unless site.hide_search %}
-      {% include search.html %}
-    {% endunless %}
+
 
     {% include menu.html %}
 
