@@ -8,14 +8,17 @@ layout: default
   {% include back-link.html %}
 {% else %}
   <header class="site-masthead">
-
-
+    {% include menu.html %}
+    {% if site.title %}
       <h1>
-        Benjamin Paspaporn
+        {{ site.title }}
       </h1>
+    {% endif %}
+    {% if site.title %}
       <h2>
-        Designer. Developer. Thinker.
+        {{ site.description }}
       </h2>
+    {% endif %}
   </header>
 {% endif %}
 
@@ -25,30 +28,45 @@ layout: default
     {% if site.paginate and site.paginate_path and paginator.page > 1 %}
       Page {{ paginator.page }}
     {% else %}
-      Resumé
+      Contents
     {% endif %}
   </h1>
 
-  <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
+  {% if site.paginate and site.paginate_path %}
+    
+    <ul class="post-list">
+      {% for post in paginator.posts %}
+        {% include post-list-item.html %}
+      {% endfor %}
+    </ul>
 
+    {% if paginator.total_pages > 1 %}
 
-      <h1 class="post-title divided p-name" itemprop="name headline">
-        Page Title
-      </h1>
+      <div class="post-pagination">
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl  }}" class="pagination-next btn">&lang;&nbsp;Older</a>
+        {% else %}
+          <span>&nbsp;</span>
+        {% endif %}
+        <span class="pagination-number">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagination-previous btn">Newer&nbsp;&rang;</a>
+        {% else %}
+          <span>&nbsp;</span>
+        {% endif %}
+      </div>
 
+    {% endif %}
 
-    <div class="post-content e-content" itemprop="articleBody">
-      # Header 1
-      **bold text**
-    </div>
+  {% else %}
 
-
-
-  </article>
-
-
-
-
-
+    <ul class="post-list">
+      {% for post in site.posts %}
+        {% include post-list-item.html %}
+      {% endfor %}
+    </ul>
+  
+  {% endif %}
+    
 
 </main>
