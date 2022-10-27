@@ -2,11 +2,7 @@
 layout: default
 ---
 
-{% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
-  {% include menu.html %}
-{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
-  {% include back-link.html %}
-{% else %}
+
   {{ include.content.content | markdownify }}
   <header class="site-masthead">
 
@@ -33,7 +29,9 @@ layout: default
 
 
   <div>
+
     **bold text**
+    
     </div>
 
 
