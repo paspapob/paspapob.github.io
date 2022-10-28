@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Home
+title: Resumé
 ---
 
 **bold text**
