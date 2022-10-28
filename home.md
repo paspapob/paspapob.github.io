@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "The Adventure of the Cardboard Box"
+layout: default
+title: Home
 ---
 
 **bold text**
