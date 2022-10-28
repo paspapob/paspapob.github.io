@@ -3,4 +3,4 @@ layout: post
 title: Resumé
 ---
 
-**bold text**
+**Resume stuff goes here**
