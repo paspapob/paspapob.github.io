@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Resumé
+title: Benjamin Paspaporn
 ---
 
-**Resume stuff goes here**
+### [ [paspapob.github.io](http://paspapob.github.io) ] . [ paspapob@myumanitoba.ca ] . [ 204 583 8731 ]
 
-**This text is formatted in**
-
-# Markdown
+Experience
+---
