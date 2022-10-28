@@ -1,5 +1,5 @@
 # Site settings
-title: "BP Resume Template"
+title: "Benjamin Paspaporn"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -9,12 +9,12 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "False"
 resume_name:                    "Lisa M. Simpson"
 resume_title:                   "VP of Communications"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "paspapob@myumanitoba.ca"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
