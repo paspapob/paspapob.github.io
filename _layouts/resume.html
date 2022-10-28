@@ -35,7 +35,7 @@
           {% include icon-links.html %}
         </div>
 
-        
+
 
         {% if site.resume_looking_for_work == 'yes' %}
         <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
@@ -58,7 +58,13 @@
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
-          <p class="resume-item-copy">{{ job.summary }}</p>
+          <p class="resume-item-copy">
+            <ul class="resume-item-list">
+              {% for point in experience.points %}
+              <li>{{ point.point }}</li>
+              {% endfor %}
+            </ul>
+          </p>
         </div><!-- end of resume-item -->
         {% endfor %}
 
