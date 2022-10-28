@@ -32,7 +32,7 @@
           <h2 class="header-title" itemprop="jobTitle">{{ site.resume_title }}</h2>
 
           <!-- This is the markup for the icon links; moved out to an include because it's very verbose, and you shouldn't ever need to edit the markup (unless you want to re-order the icons); if you want to customize which links appear, define them in the _config.yml file -->
-          
+          {% include icon-links.html %}
         </div>
 
         {% if site.resume_looking_for_work == 'yes' %}
