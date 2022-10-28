@@ -1,12 +1,16 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Front End
+  description: <ul class="resume-item-list"> <li>JavaScript</li> <li>Java</li> <li>HTML</li> <li>CSS</li> <li>React</li></ul>
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Back End
+  description: <ul class="resume-item-list"> <li>C</li> <li>C++</li> <li>Git</li> <li>HSQLDB</li> <li>Elastic Search</li></ul>
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Enterprise
+  description: <ul class="resume-item-list"> <li>Windows AD</li> <li>Azure AD</li> <li>Sharepoint Online</li> </ul>
+
+# Security
+- skill: Security
+  description: <ul class="resume-item-list"> <li>Kali Linux</li> <li>Sigma</li> <li>Gray Log</li> <li>McAfee NSM</li> <li>SCCM</li></ul>
