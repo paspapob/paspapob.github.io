@@ -3,8 +3,7 @@
 - company: National Security Operations - Terrorist Listing Team
   position: Junior Policy Analyst
   duration: Sep 2021 &mdash; Sep 2022
-  summary: <ul class="resume-item-list"><li>Led cross team initiative to develop Koios, a website providing education and training for intelligence analysts</li><li>Designed and implemented UI for desktop applications using Adobe Illustrator and Microsoft Reunion</li><li>Developed and launched a website utilizing a database of reports related to terrorist organizations and their activities using React</li><li>Designed a data-scraping script to create over 80,000 pages of intelligence regarding
-terrorist attacks in the Middle East using Microsoft Power Automate</li><li>Collaborated with international security agencies to distribute and present intelligence related to terrorist operations in Afghanistan</li></ul>
+  summary: <ul class="resume-item-list"> <li>Led cross team initiative to develop Koios, a website providing education and training for intelligence analysts</li> </ul>
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
