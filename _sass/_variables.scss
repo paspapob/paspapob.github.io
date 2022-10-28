@@ -1,10 +1,21 @@
-$brand-color:         #fede00;
-$highlight:           lighten($brand-color, 35%);
-$text-color:          #0b0404;
-$muted-text-color:    #64644B;
-$font-family:         "EB Garamond", Garamond, "Times New Roman", serif;
+// Variables
+// ---------------------------------------/
 
-$on-bigphone:         375px;
-$on-tablet:           768px;
-$on-laptop:           960px;
-$on-desktop:          1200px;
+$container-width: 980px !default;
+$grid-gutter:     10px !default;
+
+// Colors
+$white:             #fff;
+$black:             #333;
+
+// Styles
+$text_color:        $black;
+
+// Font stack
+$body-font: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" !default;
+
+// The base body size
+$body-font-size: 13px !default;
+
+// Monospace font stack
+$mono-font: Consolas, "Liberation Mono", Menlo, Courier, monospace !default;
