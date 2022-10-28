@@ -6,14 +6,7 @@
   summary: <ul class="resume-item-list"> <li>Led cross team initiative to develop Koios, a website providing education and training for intelligence analysts</li> <li>Designed and implemented UI for desktop applications using Adobe Illustrator and Microsoft Reunion</li> <li>Developed and launched a website utilizing a database of reports related to terrorist organizations and their activities using React</li> <li>Designed a data-scraping script to create over 80,000 pages of intelligence regarding terrorist attacks in the Middle East using Microsoft Power Automate</li> <li>Collaborated with international security agencies to distribute and present intelligence related to terrorist operations in Afghanistan</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Government of Manitoba - Information Protection Centre
+  position: Security Analyst
+  duration:  Jan 2021 &mdash; APR 2021
+  summary: <ul class="resume-item-list"> <li>Monitored network activity, risky users and sign-ins using SIEM software to recognize indicators of compromise and prevent information exposure</li> <li>Identified, investigated, and resolved cases involving threats such as QakBot, malware, and sim-swapping using forensic software</li> <li>Created documentation and user guides to aid team members and future co-op students on how to setup and utilize tools such as CIS Workbench and CIS Assessor</li> <li>Decreased time to create XCCDF benchmarks by 75% through the introduction and utilization of CIS WorkBench</li> </ul>
