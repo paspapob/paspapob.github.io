@@ -159,8 +159,13 @@ by opening USERNAME.github.io/resume in the browser
 
 ### *More Resources*
 
+Resources for additional context
+
 https://www.markdowntutorial.com/
 - Tutorial for learning how to format text in Markdown
+
+[Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+- Excellent resource for learning how to create software documentation
 
 
 
