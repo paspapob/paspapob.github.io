@@ -1,5 +1,4 @@
-﻿
-<div align="center">
+
 
 # Hosting a Markdown resume with GitHub Pages and Jekyll on Windows
 
@@ -66,7 +65,6 @@ system. This can be done by going to the following link:
 During installation, **ensure that you enable Git to be used from the
 Command Prompt/Command line**.
 
-<img src="./img/gitCL.png" width="745">
 
 ### GitHub Desktop
 GitHub Desktop is software utilizing a GUI to implement Git.
