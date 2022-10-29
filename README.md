@@ -171,9 +171,9 @@ by opening USERNAME.github.io/resume in the browser
 - GitHub hosted resource containing a curated list of high quality READMEs
 
 ## Authors and Acknowledgements
-Lu, Junyi - LUJ8
-Kolton, Zac - KOLTONZ
-Paspaporn, Benjamin - PASPAPOB
+Lu, Junyi - LUJ8 <br>
+Kolton, Zac - KOLTONZ <br>
+Paspaporn, Benjamin - PASPAPOB <br>
 Murray, Evan - MURRAYE2
 
 
