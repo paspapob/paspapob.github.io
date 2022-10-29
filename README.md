@@ -150,9 +150,9 @@ the local path.
 2. Rename the file to "resume.md"
 3. Open resume.md in Atom and add the following code to the top of the
 file. <br>  `---` <br> `layout: page`
-`title: "Resume"`
-`permalink: /resume`
-`---`
+<br> `title: "Resume"`
+<br> `permalink: /resume`
+<br>`---`
 5. Commit and publish the changes in GitHub Desktop.
 6. Confirm the Markdown formatted resume has been hosted
 by opening USERNAME.github.io/resume in the browser
