@@ -170,14 +170,11 @@ by opening USERNAME.github.io/resume in the browser
 [Awesome README](https://github.com/matiassingers/awesome-readme)
 - GitHub hosted resource containing a curated list of high quality READMEs
 
-## Configuration
-
-### Flags
-
-
-
-### Environment variables
+## Authors and Acknowledgements
+Lu, Junyi - LUJ8
+Kolton, Zac - KOLTONZ
+Paspaporn, Benjamin - PASPAPOB
+Murray, Evan - MURRAYE2
 
 
-
-## Third-party integrations
+## FAQs
