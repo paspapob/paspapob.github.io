@@ -157,6 +157,12 @@ file. <br>  `---` <br> `layout: page`
 6. Confirm the Markdown formatted resume has been hosted
 by opening USERNAME.github.io/resume in the browser
 
+### *More Resources*
+
+https://www.markdowntutorial.com/
+- Tutorial for learning how to format text in Markdown
+
+
 
 ## Configuration
 
