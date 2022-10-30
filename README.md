@@ -91,7 +91,7 @@ Create a Github repository by first opening https://Github.com while logged into
 created Github account.
 
 1. Click the + drop-down menu in the upper right corner of the page and
-click **New repository**
+click **New repository**.
 2. Enter `USERNAME.github.io` into the "Repository name" input box, **such that
 USERNAME is the username associated with the GitHub account**.
 3. Click **"Create Repository"** located at the bottom of the page.
@@ -122,8 +122,9 @@ Jekyll. Before proceeding, open GitHub Desktop and sign in with the account
 created in Step 1.
 
 
-1. Click "Set up in Desktop" in the Quick setup section of the repository page
-2. Provide an appropriate local path for the repository and select "Clone"
+1. Click **"Set up in Desktop"** in the Quick setup section of the repository page.
+2. Provide an appropriate local path for the repository and then
+select **"Clone"**.
 
 
 
@@ -143,7 +144,7 @@ for a static site. Before proceeding, note the latest supported version of
 github-pages, which can be found at the following
 link: https://pages.github.com/versions/
 
-1. Open Command Prompt and change directory to the cloned repository
+1. Open Command Prompt and change directory to the cloned repository.
 2. Run the command `jekyll new --skip-bundle .`
 3. Open the newly generated Gemfile with Atom.
 4. Add `#` to the beginning of the line that starts with `gem "jekyll"`
@@ -177,7 +178,7 @@ formatted resume.
 
 1. Copy and paste the Markdown formatted resume into the root of
 the local path.
-2. Rename the file to "resume.md"
+2. Rename the file to "resume.md".
 3. Open resume.md in Atom and add the following code to the top of the
 file. <br>  `---` <br> `layout: page`
 <br> `title: "Resume"`
