@@ -49,7 +49,7 @@ To get started, the following tools must be installed/setup.
 Prepare and complete a Markdown formatted resume. Markdown files can be created
 and edited using Atom. This resume will be hosted on the completed site.
 Information regarding Markdown formatting can be found below under
-"More Resources".
+["More Resources".](https://github.com/paspapob/paspapob.github.io/#more-resources)
 
 ### GitHub
 As the hosted resume will be hosted using GitHub Pages, it is necessary to own
