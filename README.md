@@ -234,7 +234,7 @@ is enabled and is being built from "main".
 Please allow time for the site to be published before continuing to
 Step 4.
 
-<img src="./img/troubleshoot1.png" width="745">
+<img src="./img/troubleshoot1.PNG" width="745">
 
 ### Why am I not seeing changes after pushing origin?
 
