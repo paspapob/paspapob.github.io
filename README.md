@@ -14,22 +14,22 @@ and Jekyll.**
 Markdown
 - Markdown is a lightweight markup language that is used to format
 plaintext documents.
-- Elements of Markdown are used to format text into headings,
+- Markdown will be used to utilize syntax elements such as headings,
 lists, and more.
 
 Atom
-- A free and open-source text editor, which can be used to edit Markdown files
+- A free and open-source text editor, which can be used to edit Markdown files.
 
 GitHub Pages
-- Static site hosting service that turns GitHub repositories into a websites
-- This will be used to host a Markdown formatted resume
+- Static site hosting service that turns GitHub repositories into a websites.
+- This will be used to host a Markdown formatted resume.
 
 Jekyll
 - A static site generator which will be used to convert plain text files into a
-static website
-- Jekyll is necessary to generate the site that will be hosted by GitHub Pages
+static website.
+- Jekyll is necessary to generate the site that will be hosted by GitHub Pages.
 
-### *Why should someone host a website and Markdown resume?*
+### *Why should someone host a website and a Markdown resume?*
 Having a personal website is a great way to connect with others. Hosting a
 website with GitHub Pages creates an avenue for others to view content.
 This could be resumes, projects, portfolios, media, and much more.
