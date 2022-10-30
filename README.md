@@ -60,12 +60,11 @@ link: https://github.com/join
 GitHub Desktop is software that implements the features of Git through a GUI
 as opposed to a shell. GitHub Desktop will be used to work with repositories.
 
-GitHub Desktop can be downloaded and installed at the following
-link: https://desktop.github.com/
+GitHub Desktop can be downloaded and installed at: https://desktop.github.com/
 
 ### Jekyll
 Jekyll is based on **Ruby**. Consequently, Ruby must be installed as a
-prerequisite before using Jekyll. Jekyll will be used to generate the files
+prerequisite before installing Jekyll. Jekyll will be used to generate the files
 necessary to setup a static site.
 
 Instructions on how to install Ruby and Jekyll on Windows can be found on the
@@ -103,7 +102,8 @@ associated with the created GitHub Account
 
 ```
 The note implemented above is also another aspect of avoiding
-formal documentation, using a note to reduce repetitive text.
+unnecessary information and repetition. The note is used as context for future
+tasks to reduce the need for repetitive details.
 ```
 
 
@@ -113,8 +113,8 @@ formal documentation, using a note to reduce repetitive text.
 Step 2 adheres to Etter's rule of writing using the minimum possible length.
 In the tasks below, the context provided is only that of what is necessary.
 For example, the description of Step 2 states that the user needs to sign into
-GitHub Desktop. There is no further additional information detailing the
-additional uses of GitHub Desktop as it is unnecessary for this step.
+GitHub Desktop. There is no additional information detailing other uses of
+GitHub Desktop as it is unnecessary for this step.
 ```
 
 A local version of the repository is needed to generate a static site using
@@ -134,7 +134,8 @@ recommends that instead of writing from memory, it is better to copy and paste
 the commands after validating that they work. This is in contrast to
 broadly explaining what kind of shell command should be used.
 In the tasks provided, shell commands can be directly copied and pasted
-from the instructions into the Command Prompt.
+from the instructions into the Command Prompt. Furthermore, the commands
+provided have been successfully tested as recommended by Etter.
 ```
 
 Following Step 2, Jekyll can now be utilized to generate the files necessary
@@ -164,9 +165,11 @@ github-pages gem.
 ### *Step 4: Host the Markdown Resume*
 ```
 Etter states that consistency is important as it makes writing appear more
-approachable and easier to scan. The concept of consistency was implemented by
+approachable and easier to scan. The concept of consistency is implemented by
 ensuring that each step is identical in composition. Each step has a short
 description, followed by smaller tasks organized as a list.
+Moreover, important commands and details are formatted with elements such as
+bolding or code blocks.
 ```
 
 With the necessary files now generated, it is possible to host the Markdown
