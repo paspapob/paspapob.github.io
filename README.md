@@ -212,7 +212,7 @@ Murray, Evan - MURRAYE2
 As previously stated in the introduction, Markdown is easy to use and has a
 small barrier to entry. Firstly, Markdown files can be made from any text editor
 and can be utilized by users without a technical background. Secondly, Markdown
-is incredibly versatile. Markdown can be read before it is formatted, and is
+is incredibly versatile. Markdown can be read as plain text, and is
 compatible with virtually all platforms and operating systems. In comparison to
 Microsoft Word, Markdown does not require the use of a GUI to implement
 elements such as headers, lists, tables, and more. Further, it can be easily
