@@ -93,7 +93,7 @@ created Github account.
 
 1. Click the + drop-down menu in the upper right corner of the page and
 select **New repository**
-2. Enter `USERNAME.github.i` into the "Repository name" input box, **such that
+2. Enter `USERNAME.github.io` into the "Repository name" input box, **such that
 USERNAME is the username associated with the GitHub account**.
 3. Click **"Create Repository"** located at the bottom of the page.
 
