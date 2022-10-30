@@ -16,7 +16,7 @@ Experience
 - Collaborated with international security agencies to present intelligence related to terrorist operations in Afghanistan
 
 
-**Security Analyst Analyst, Government of Manitoba** (Jan 2021 - Apr 2022, Winnipeg MB)
+**Security Analyst Analyst, Government of Manitoba** (Jan 2022 - Apr 2022, Winnipeg MB)
 
 - Monitored network activity, risky users and sign-ins using SIEM software to recognize indicators of compromise and prevent information exposure
 - Identified, investigated, and resolved cases involving threats such as QakBot, malware, and sim-swapping using forensic software
