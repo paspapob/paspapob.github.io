@@ -24,7 +24,7 @@ Experience
 
 Education
 ---------
-**Ph.D. program in Applied Physics, Yale University** (2017 - present)
+**University of Manitoba** (2017 - present)
 
 - B.Sc. Computer Science Major (Co-op Option)
 
