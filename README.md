@@ -31,8 +31,8 @@ static website.
 
 ### *Why should someone host a website and a Markdown resume?*
 Having a personal website is a great way to connect with others. Hosting a
-website with GitHub Pages creates an avenue for others to view content.
-This could be resumes, projects, portfolios, media, and much more.
+website with GitHub Pages creates an accessible avenue for others to view content.
+This can include resumes, projects, portfolios, media, and much more.
 Hosting a resume in Markdown allows users to view your resume from different
 platforms and devices. For example, Markdown can be created and viewed using
 the most common (and uncommon) operating systems. Moreover, technological
