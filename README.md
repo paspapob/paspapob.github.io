@@ -87,7 +87,7 @@ this, each task in Step 1 is succinct.
 A GitHub repository will be used to contain the files necessary to host
 the website.
 
-Create a Github repository by first opening Github.com while logged into your
+Create a Github repository by first opening https://Github.com while logged into your
 created Github account.
 
 1. Click the + drop-down menu in the upper right corner of the page and
