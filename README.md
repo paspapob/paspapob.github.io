@@ -43,45 +43,34 @@ indefinitely without concern for incompatibility.
 
 ## ✏️ Getting started
 
-To get started, the following tools must be installed/set-up.
+To get started, the following tools must be installed/setup.
 
 ### Markdown
 Prepare and complete a Markdown formatted resume. Markdown files can be created
 and edited using Atom. This resume will be hosted on the completed site.
+Information regarding Markdown formatting can be found below under
+"More Resources".
 
 ### GitHub
 As the hosted resume will be hosted using GitHub Pages, it is necessary to own
-a GitHub account. Registration for GitHub can be done by visiting the following
+a GitHub account. Users can register for GitHub by visiting the following
 link: https://github.com/join
 
-### Git
-Git is software used for distributed version control, in this case we will be
-using Git to manage and work with repositories.
-
-Install Git by downloading the appropriate installation package from your
-system. This can be done by going to the following link:
- https://git-scm.com/download/win
-
-During installation, **ensure that you enable Git to be used from the
-Command Prompt/Command line**.
-
-
 ### GitHub Desktop
-GitHub Desktop is software utilizing a GUI to implement Git.
+GitHub Desktop is software that implements the features of Git through a GUI
+as opposed to a shell. GitHub Desktop will be used to work with and manage
+repositories.
 
 GitHub Desktop can be downloaded and installed at the following
 link: https://desktop.github.com/
 
 ### Jekyll
 Jekyll is based on **Ruby**. Consequently, Ruby must be installed as a
-prerequisite before using Jekyll.
+prerequisite before using Jekyll. Jekyll will be used to generate the files
+necessary to setup a static site.
 
-Instructions on how to install Ruby on Windows can be found on the
+Instructions on how to install Ruby and Jekyll on Windows can be found on the
 official Jekyll website at https://jekyllrb.com/docs/installation/windows/
-
-Confirm that Jekyll has been properly installed by opening Command Prompt
-and running command `jekyll -v`
-
 
 
 
