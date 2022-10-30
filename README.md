@@ -205,5 +205,5 @@ exported as a PDF, EPUB, HTML as Markdown is essentially plain text.
 
 It is important to remember that following the completion of the Ruby
 installation, users must open a new Command Prompt and install Jekyll by
-running 'gem install jekyll bundler'. Following this command, users can confirm
-installing by running 'jekyll -v'
+running `gem install jekyll bundler`. Following this command, users can confirm
+installing by running `jekyll -v`
