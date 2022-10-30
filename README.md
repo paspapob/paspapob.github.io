@@ -179,15 +179,6 @@ Murray, Evan - MURRAYE2
 
 ## FAQs
 
-Having a personal website is a great way to connect with others. Hosting a
-website with GitHub Pages creates an avenue for others to view content.
-This could be resumes, projects, portfolios, media, and much more.
-Hosting a resume in Markdown allows users to view your resume from different
-platforms and devices. For example, Markdown can be created and viewed using
-the most common (and uncommon) operating systems. Moreover, technological
-advancements will not impede the utility of Markdown as it can be read using
-a simple text editor. This results in a document that can be hosted and shared
-indefinitely without concern for incompatibility.
 
 
 ### Why is Markdown better than a word processor?
