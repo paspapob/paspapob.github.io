@@ -178,3 +178,32 @@ Murray, Evan - MURRAYE2
 
 
 ## FAQs
+
+Having a personal website is a great way to connect with others. Hosting a
+website with GitHub Pages creates an avenue for others to view content.
+This could be resumes, projects, portfolios, media, and much more.
+Hosting a resume in Markdown allows users to view your resume from different
+platforms and devices. For example, Markdown can be created and viewed using
+the most common (and uncommon) operating systems. Moreover, technological
+advancements will not impede the utility of Markdown as it can be read using
+a simple text editor. This results in a document that can be hosted and shared
+indefinitely without concern for incompatibility.
+
+
+### Why is Markdown better than a word processor?
+
+As previously stated in the introduction, Markdown is easy to use and has a
+small barrier to entry. Firstly, Markdown files can be made from any text editor
+and can be utilized by users without a technical background. Secondly, Markdown
+is incredibly versatile. Markdown can be read before it is formatted, and is
+compatible with virtually all platforms and operating systems. In comparison to
+Microsoft Word, Markdown does not require the use of a GUI to implement
+elements such as headers, lists, tables, and more. Further, it can be easily
+exported as a PDF, EPUB, HTML as Markdown is essentially plain text.
+
+### Why is Windows not recognizing the "jekyll" command?
+
+It is important to remember that following the completion of the Ruby
+installation, users must open a new Command Prompt and install Jekyll by
+running 'gem install jekyll bundler'. Following this command, users can confirm
+installing by running 'jekyll -v'
