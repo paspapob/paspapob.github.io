@@ -14,14 +14,13 @@ and Jekyll.**
 Markdown
 - Markdown is a lightweight markup language that is used to format
 plaintext documents.
-- Markdown will be used to utilize syntax elements such as headings,
-lists, and more.
+- Markdown will be used to format plain text into a readable resume.
 
 Atom
 - A free and open-source text editor, which can be used to edit Markdown files.
 
 GitHub Pages
-- Static site hosting service that turns GitHub repositories into a websites.
+- Static site hosting service that turns GitHub repositories into websites.
 - This will be used to host a Markdown formatted resume.
 
 Jekyll
@@ -78,10 +77,11 @@ official Jekyll website at https://jekyllrb.com/docs/installation/windows/
 
 ### *Step 1: Create a GitHub Repository*
 ```
-For Step 1, Etter's principle of avoiding formal documentation
-(Specifically, unnecessary information and repetition) must be utilized to
-ensure readers are not encouraged to skim through instructions. To implement
-this, each task in Step 1 is succinct.
+With the "Getting started" section placed before Step 1, the reader should now
+know exactly what materials and tools they need to proceed. Also, the
+information given is only what the audience needs to know. There are no
+unnecessary details as Etter emphasizes that documentation should write what
+the audience needs to know and nothing more.
 ```
 
 A GitHub repository will be used to contain the files necessary to host
@@ -101,7 +101,7 @@ USERNAME is the username associated with the GitHub account**.
 associated with the created GitHub Account
 
 ```
-The note implemented above is also another aspect of avoiding
+The note implemented above is an aspect of avoiding
 unnecessary information and repetition. The note is used as context for future
 tasks to reduce the need for repetitive details.
 ```
@@ -110,8 +110,9 @@ tasks to reduce the need for repetitive details.
 
 ### *Step 2: Clone a repository for local use*
 ```
-Step 2 adheres to Etter's rule of writing using the minimum possible length.
-In the tasks below, the context provided is only that of what is necessary.
+Step 2 adheres to Etter's rule of avoiding comprehensive writing unless it is
+absolutely necessary.
+In the tasks below, the context provided is only that of what is needed.
 For example, the description of Step 2 states that the user needs to sign into
 GitHub Desktop. There is no additional information detailing GitHub Desktop
 as it is unnecessary for this step.
