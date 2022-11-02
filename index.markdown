@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: "Benjamin Paspaporn"
 ---
 ### [paspapob.github.io](http://paspapob.github.io)  -  paspapob@myumanitoba.ca - 204 583 8731
 
