@@ -188,7 +188,7 @@ Markdown resume file.
 5. Commit the changes in GitHub Desktop.
 6. Push origin in Github Desktop.
 7. Confirm the Markdown formatted resume has been hosted
-by opening `USERNAME.github.io/resume` in the browser
+by opening `USERNAME.github.io` in the browser
 
 ### *More Resources*
 
