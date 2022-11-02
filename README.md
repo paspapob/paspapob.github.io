@@ -8,7 +8,9 @@
 
 This documentation provides the instructions and tools necessary to host a
 Markdown formatted resume on Windows using **Markdown, Atom, GitHub Pages,
-and Jekyll.**
+and Jekyll.** Additionally, Etter's principles of technical writing are
+detailed alongside each step to demonstrate understanding of his writing
+process.
 
 ### Software stack explanation
 Markdown
