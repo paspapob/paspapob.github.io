@@ -176,17 +176,18 @@ bolding or code blocks.
 With the necessary files now generated, it is possible to host the Markdown
 formatted resume.
 
-1. Copy and paste the Markdown formatted resume into the root of
-the local path.
-2. Rename the file to "resume.md".
-3. Open resume.md in Atom and add the following code to the top of the
-file. <br>  `---` <br> `layout: page`
-<br> `title: "Resume"`
-<br> `permalink: /resume`
-<br>`---`
+1. Open the completed Markdown resume in Atom.
+2. Add the following code to the top of the file.
+<br>  `---` <br>
+`layout: page` <br>
+`title: "Your Title"` <br>
+`---`
+3. Rename the Markdown resume file to "index.md".
+4. Replace the index.markdown file in the repository directory with the renamed
+Markdown resume file.
 5. Commit the changes in GitHub Desktop.
 6. Push origin in Github Desktop.
-6. Confirm the Markdown formatted resume has been hosted
+7. Confirm the Markdown formatted resume has been hosted
 by opening `USERNAME.github.io/resume` in the browser
 
 ### *More Resources*
