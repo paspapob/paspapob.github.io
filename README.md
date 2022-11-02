@@ -113,8 +113,8 @@ tasks to reduce the need for repetitive details.
 Step 2 adheres to Etter's rule of writing using the minimum possible length.
 In the tasks below, the context provided is only that of what is necessary.
 For example, the description of Step 2 states that the user needs to sign into
-GitHub Desktop. There is no additional information detailing other uses of
-GitHub Desktop as it is unnecessary for this step.
+GitHub Desktop. There is no additional information detailing GitHub Desktop
+as it is unnecessary for this step.
 ```
 
 A local version of the repository is needed to generate a static site using
@@ -135,8 +135,8 @@ recommends that instead of writing from memory, it is better to copy and paste
 the commands after validating that they work. This is in contrast to
 broadly explaining what kind of shell command should be used.
 In the tasks provided, shell commands can be directly copied and pasted
-from the instructions into the Command Prompt. Furthermore, the commands
-provided have been successfully tested as recommended by Etter.
+from the instructions into the Command Prompt. Further, the commands
+provided have been successfully tested (as recommended by Etter).
 ```
 
 Following Step 2, Jekyll can now be utilized to generate the files necessary
@@ -168,8 +168,8 @@ github-pages gem.
 Etter states that consistency is important as it makes writing appear more
 approachable and easier to scan. The concept of consistency is implemented by
 ensuring that each step is identical in composition. Each step has a short
-description, followed by smaller tasks organized as a list.
-Moreover, important commands and details are formatted with elements such as
+description, followed by a list of tasks.
+Additionally, important commands and details are formatted with elements such as
 bolding or code blocks.
 ```
 
