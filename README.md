@@ -48,8 +48,8 @@ To get started, the following tools must be installed/setup.
 ### Markdown
 Prepare and complete a Markdown formatted resume. Markdown files can be created
 and edited using Atom. This resume will be hosted on the completed site.
-Information regarding Markdown formatting can be found below under
-["More Resources".](https://github.com/paspapob/paspapob.github.io/#more-resources)
+Information regarding Markdown formatting and a sample resume
+can be found below under ["More Resources".](https://github.com/paspapob/paspapob.github.io/#more-resources)
 
 ### GitHub
 As the hosted resume will be hosted using GitHub Pages, it is necessary to own
@@ -199,6 +199,9 @@ by opening `USERNAME.github.io/resume` in the browser
 
 [Awesome README](https://github.com/matiassingers/awesome-readme)
 - GitHub hosted resource containing a curated list of high quality READMEs
+
+[Sample Resume from Mikepqr](https://github.com/mikepqr/resume.md)
+- Example of a Markdown formatted resume
 
 ## Authors and Acknowledgements
 Lu, Junyi - LUJ8 <br>
