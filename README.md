@@ -117,8 +117,7 @@ GitHub Desktop as it is unnecessary for this step.
 ```
 
 A local version of the repository is needed to generate a static site using
-Jekyll. Before proceeding, open GitHub Desktop and sign in with the account
-created in Step 1.
+Jekyll. Before proceeding, open GitHub Desktop and sign in.
 
 
 1. Click **"Set up in Desktop"** in the Quick setup section of the repository page.
@@ -184,9 +183,10 @@ formatted resume.
 3. Rename the Markdown resume file to "index.md".
 4. Replace the index.markdown file in the repository directory with the renamed
 Markdown resume file.
-5. Commit the changes in GitHub Desktop.
-6. Push origin in Github Desktop.
-7. Confirm the Markdown formatted resume has been hosted
+5. Provide a summary in Github Desktop.
+6. Click **"Commit to main"**.
+7. Click **"Push origin"**.
+8. Confirm the Markdown formatted resume has been hosted
 by opening `USERNAME.github.io` in the browser
 
 ### *More Resources*
