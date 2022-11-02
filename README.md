@@ -97,7 +97,7 @@ USERNAME is the username associated with the GitHub account**.
 3. Click **"Create Repository"** located at the bottom of the page.
 
 >❗️
->From Step 2 onwards, USERNAME will be used as a place holder for the username
+>From Step 2 onwards, **"USERNAME"** will be used as a place holder for the username
 associated with the created GitHub Account
 
 ```
